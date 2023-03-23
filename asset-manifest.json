@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/for_eastmart/static/css/main.e46ee771.css",
+    "main.js": "/for_eastmart/static/js/main.cc7574c2.js",
+    "index.html": "/for_eastmart/index.html",
+    "main.e46ee771.css.map": "/for_eastmart/static/css/main.e46ee771.css.map",
+    "main.cc7574c2.js.map": "/for_eastmart/static/js/main.cc7574c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e46ee771.css",
+    "static/js/main.cc7574c2.js"
+  ]
+}
